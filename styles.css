@@ -1,0 +1,27 @@
+body{
+  height: 100% ;
+  background-image: url(fundoburaconegro.jpg);
+}
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-family: 'Lobster', cursive;
+  color: DimGray;
+}
+.oque {
+  float: left;
+  width: 600px;
+  margin-left: 80px;
+}
+.principal{
+  color: white ;
+  font-size: 24px ;
+}
+.alea {
+  float: right;
+  width: 600px;
+  margin-left: 80px;
+}
